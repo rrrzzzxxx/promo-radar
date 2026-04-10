@@ -1,7 +1,7 @@
 import streamlit as st
 import time
 from config import PAGE_CONFIG, CUSTOM_CSS
-from data.mock_data import MOCK_DEALS
+from mock_data import MOCK_DEALS
 
 # ==========================================
 # 0. 初始化配置与状态
