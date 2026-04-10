@@ -23,7 +23,7 @@ PromoRadar 诞生于这一市场痛点。本项目旨在打造一个高保真、
 💡 解法：【AI 购票精算师】
 引入 LLM 大模型能力。用户只需点击一键扫描，AI 即可在秒级时间内阅读数万字的航司枯燥条款，精准提取“行李额度”、“税费陷阱”、“退改政策”，并给出通俗易懂的购买建议。
 
-<img width="1078" height="870" alt="image"src="https://github.com/user-attachments/assets/f7f46620-0a9d-402c-ae22-45aeb92c3579" />
+<img width="1078" height="870" alt="image" src="https://github.com/user-attachments/assets/f7f46620-0a9d-402c-ae22-45aeb92c3579" />
 
 痛点三：平台价格不透明，存在“底价幻觉” (The Price Illusion)
 现象： 同一张机票，在飞猪、携程、同程、去哪儿及航司官网的价格和搭售政策各不相同，用户手动比价极其疲惫。
