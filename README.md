@@ -1,6 +1,8 @@
 ✈️ PromoRadar (飞鸟特价雷达) - 全网特价机票聚合与智能决策平台
 “打破信息差，拒绝套路杀。用 AI 重新定义特价机票的发现与选择。”
+
 <img width="1107" height="893" alt="image" src="https://github.com/user-attachments/assets/61566e71-c0b4-432e-ad25-4d50b6cdbda8" />
+
 📖 项目愿景 (Product Vision)
 在当今的旅行市场中，各大航司与 OTA（在线旅游平台）频繁推出极具吸引力的特价机票、随心飞及盲盒活动。然而，对于普通消费者而言，寻找一张真正的高性价比机票正变得越来越困难。
 
@@ -20,14 +22,17 @@ PromoRadar 诞生于这一市场痛点。本项目旨在打造一个高保真、
 
 💡 解法：【AI 购票精算师】
 引入 LLM 大模型能力。用户只需点击一键扫描，AI 即可在秒级时间内阅读数万字的航司枯燥条款，精准提取“行李额度”、“税费陷阱”、“退改政策”，并给出通俗易懂的购买建议。
-<img width="1078" height="870" alt="image"
-src="https://github.com/user-attachments/assets/f7f46620-0a9d-402c-ae22-45aeb92c3579" />
+
+<img width="1078" height="870" alt="image"src="https://github.com/user-attachments/assets/f7f46620-0a9d-402c-ae22-45aeb92c3579" />
+
 痛点三：平台价格不透明，存在“底价幻觉” (The Price Illusion)
 现象： 同一张机票，在飞猪、携程、同程、去哪儿及航司官网的价格和搭售政策各不相同，用户手动比价极其疲惫。
 
 💡 解法：【全网底价比价榜单】
 采用类似“识货”的跨平台比价逻辑。在产品详情页，一键拉取全网 5 大核心平台的实时报价，按总价从低到高严谨排序。最高亮的标签永远属于真正的“全网底价”，提供极其顺畅的购买决策闭环。
+
 <img width="521" height="852" alt="image" src="https://github.com/user-attachments/assets/1d8a6a70-236c-405f-86d9-3c77f15d26a4" />
+
 🏗️ 产品架构与模块设计 (Module Design)
 本项目本着“轻量化、沉浸感、高转化”的设计原则，搭建了以下核心功能模块：
 
